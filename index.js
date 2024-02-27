@@ -1,5 +1,4 @@
 const http = require("http");
-const exportsFromAnother = require("./another");
 
 console.log({http});
 
