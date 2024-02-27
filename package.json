@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.21"
+  },
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BogdanRivera <bugy1998@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
