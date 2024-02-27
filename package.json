@@ -8,6 +8,9 @@
   "author": "BogdanRivera <bugy1998@hotmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^3.1.0"
   }
